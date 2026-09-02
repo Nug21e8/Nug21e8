@@ -4,7 +4,7 @@
 
 </div>
 
-## 🛡️ Web3 Security Researcher · Web3 Ambassador & Community Management · Pentester · Bug Hunter
+## 🛡️ Web3 Security Researcher · Web3 Ambassador · Pentester · Bug Hunter
 
 **Smart Contract & dApp Audits · Crypto Infrastructure · Red Team · CTF**
 Securing the on-chain economy, one bug at a time.
