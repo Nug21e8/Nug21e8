@@ -31,14 +31,14 @@ Securing the on-chain economy, one bug at a time.
 
 <div align="center">
 
-<img src="https://github-readme-stats-phi.vercel.app/api?username=vtNugrahahaha&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&ring_color=00c6ff&include_all_commits=true&count_private=true" />
-<img src="https://github-readme-stats-phi.vercel.app/api/top-langs?username=vtNugrahahaha&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=00c6ff&text_color=c9d1d9&langs_count=8" />
+<img src="https://github-readme-stats-phi.vercel.app/api?username=Nug21e8&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&ring_color=00c6ff&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats-phi.vercel.app/api/top-langs?username=Nug21e8&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=00c6ff&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=vtNugrahahaha&theme=tokyonight&background=0d1117&hide_border=true&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Nug21e8&theme=tokyonight&background=0d1117&hide_border=true&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff" />
 
 </div>
 
