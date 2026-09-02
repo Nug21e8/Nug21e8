@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=vtNugrahahaha&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Nug21e8&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -11,9 +11,9 @@ Securing the on-chain economy, one bug at a time.
 
 <div align="center">
 
-![views](https://komarev.com/ghpvc/?username=vtNugrahahaha&label=Profile%20Views&color=3fbfae&style=flat-square)
-![followers](https://img.shields.io/github/followers/vtNugrahahaha?style=flat-square&color=3fbfae)
-![repos](https://img.shields.io/badge/dynamic/json?color=3fbfae&label=public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FvtNugrahahaha&style=flat-square)
+![views](https://komarev.com/ghpvc/?username=Nug21e8&label=Profile%20Views&color=3fbfae&style=flat-square)
+![followers](https://img.shields.io/github/followers/Nug21e8?style=flat-square&color=3fbfae)
+![repos](https://img.shields.io/badge/dynamic/json?color=3fbfae&label=public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNug21e8&style=flat-square)
 
 </div>
 
