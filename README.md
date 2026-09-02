@@ -12,7 +12,7 @@ Securing the on-chain economy, one bug at a time.
 <div align="center">
 
 ![views](https://komarev.com/ghpvc/?username=Nug21e8&label=Profile%20Views&color=3fbfae&style=flat-square)
-![followers](https://img.shields.io/github/Followers/Nug21e8?style=flat-square&color=3fbfae)
+![followers](https://img.shields.io/github/followers/Nug21e8?style=flat-square&color=3fbfae)
 ![repos](https://img.shields.io/badge/dynamic/json?color=3fbfae&label=public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNug21e8&style=flat-square)
 
 </div>
