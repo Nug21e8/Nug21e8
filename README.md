@@ -22,10 +22,10 @@ Securing the on-chain economy, one bug at a time.
 ## 👤 About Me
 
 - 🔐 **Pentester & Bug Hunter** — recon, auth bypass, smart-contract & bridge audit, RCE, supply-chain security.
-- 🌐 **Web3 / Crypto** — EVM, Solana, TON, Aptos, Sui, Cosmos/IBC. Membangun sekaligus meng-audit dApp.
+- 🌐 **Web3 / Crypto** — EVM, Solana, TON, Aptos, Sui, Cosmos/IBC. Building and Auditing a dApp.
 - 🧪 **Tooling** — Foundry, Slither, Burp Suite, custom recon pipeline.
-- 🚀 **Web3 Ambassador & Community Management** — membangun dan mengelola komunitas proyek Web3, moderasi, edukasi member, dan jembatan antara tim proyek dengan komunitas.
-- 🇮🇩 Based in Indonesia · terbuka untuk security engagement & kolaborasi.
+- 🚀 **Web3 Ambassador & Community Management** — Building and managing the Web3 project community, moderating discussions, educating members, and serving as a bridge between the project team and the community.
+- 🇮🇩 Based in Indonesia · Open to security engagement and collaboration.
 
 ## 📊 GitHub Stats
 
