@@ -2,18 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Nug21e8&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-</div>
-
-## 🛡️ Web3 Security Researcher · Web3 Ambassador · Pentester · Bug Hunter
+## 🛡️ Web3 Security Researcher · Web3 Ambassador & Community Management · Pentester · Bug Hunter
 
 **Smart Contract & dApp Audits · Crypto Infrastructure · Red Team · CTF**
+<br>
 Securing the on-chain economy, one bug at a time.
 
-<div align="center">
-
 ![views](https://komarev.com/ghpvc/?username=Nug21e8&label=Profile%20Views&color=3fbfae&style=flat-square)
-![followers](https://img.shields.io/github/followers/Nug21e8?style=flat-square&color=3fbfae)
-![repos](https://img.shields.io/badge/dynamic/json?color=3fbfae&label=public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNug21e8&style=flat-square)
+![followers](https://img.shields.io/github/followers/Nug21e8?style=flat-square&color=3fbfae&label=Followers)
+![repos](https://img.shields.io/badge/dynamic/json?color=3fbfae&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNug21e8&style=flat-square)
 
 </div>
 
@@ -22,10 +19,10 @@ Securing the on-chain economy, one bug at a time.
 ## 👤 About Me
 
 - 🔐 **Pentester & Bug Hunter** — recon, auth bypass, smart-contract & bridge audit, RCE, supply-chain security.
-- 🌐 **Web3 / Crypto** — EVM, Solana, TON, Aptos, Sui, Cosmos/IBC. Building and Auditing a dApp.
+- 🌐 **Web3 / Crypto** — EVM, Solana, TON, Aptos, Sui, Cosmos/IBC. Membangun sekaligus meng-audit dApp.
 - 🧪 **Tooling** — Foundry, Slither, Burp Suite, custom recon pipeline.
-- 🚀 **Web3 Ambassador & Community Management** — Building and managing the Web3 project community, moderating discussions, educating members, and serving as a bridge between the project team and the community.
-- 🇮🇩 Based in Indonesia · Open to security engagement and collaboration.
+- 🚀 **Web3 Ambassador & Community Management** — membangun dan mengelola komunitas proyek Web3, moderasi, edukasi member, dan jembatan antara tim proyek dengan komunitas.
+- 🇮🇩 Based in Indonesia · terbuka untuk security engagement & kolaborasi.
 
 ## 📊 GitHub Stats
 
@@ -39,6 +36,17 @@ Securing the on-chain economy, one bug at a time.
 <div align="center">
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Nug21e8&theme=tokyonight&background=0d1117&hide_border=true&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff" />
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nug21e8/Nug21e8/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Nug21e8/Nug21e8/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
