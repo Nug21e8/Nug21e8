@@ -39,7 +39,7 @@ Securing the on-chain economy, one bug at a time.
 
 </div>
 
-## 🐍 Contribution Snake
+## 🐍 Contribution
 
 <div align="center">
 
